@@ -1,4 +1,4 @@
-public class InputValidator {
+public class LocationProcessor {
     public boolean isValidLocation(String location){
         return true;
     }

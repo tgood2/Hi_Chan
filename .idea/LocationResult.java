@@ -1,9 +1,9 @@
-Public class Location {
+Public class LocationResult {
     private String name;
     private String direction;
     private String channel;
 
-    public Location(String name, String direction, String channel) {
+    public LocationResult(String name, String direction, String channel) {
         this.name = name;
         this.direction = direction;
         this.channel = channel;
