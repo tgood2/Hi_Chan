@@ -1,8 +1,9 @@
+package com.hichan;
+
 //Upon creation should load in the preprocessed data in the struct
 //
-public class DataLoader (string preprocessedJSONFile){
-
-    string preprocessedJSONFile = preprocessedJSONFile;
+public class DataLoader {
+    private final String preprocessedJSONFile;
 
     //1.Propogate through the preprocessed JSON input file
     //2.Lati and longi should be readily accessible
