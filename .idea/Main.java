@@ -21,6 +21,5 @@ public class Main {
             System.err.println("System Error!");
             System.exit(2);
         }
-
     }
 }
