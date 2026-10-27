@@ -1,3 +1,5 @@
+package com.hichan;
+
 public class LocationProcessor {
     /**
      * responsible for processing coordinates into segment markers

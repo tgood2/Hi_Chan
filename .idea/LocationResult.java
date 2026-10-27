@@ -1,3 +1,5 @@
+package com.hichan;
+
 Public class LocationResult {
     private String name;
     private String direction;
