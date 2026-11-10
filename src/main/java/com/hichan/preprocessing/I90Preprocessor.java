@@ -12,9 +12,8 @@ import static com.hichan.Json.object;
 import static com.hichan.Json.parse;
 import static com.hichan.Json.write;
 
-/**
- * Converts supplied GeoJSON to runtime schema. Does not invent radio channels.
- */
+
+//Converts supplied GeoJSON to runtime schema. Does not invent radio channels.
 public final class I90Preprocessor {
 
     public static void convert(Path input, Path output) throws IOException {
